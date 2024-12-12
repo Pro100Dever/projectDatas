@@ -5,7 +5,7 @@
     "description":"Being an INFJ",
     "date":"2024-03-14T16:00:00.000Z",
     "image":"https://raw.githubusercontent.com/Pro100Dever/My-ICH-Project/refs/heads/main/assets/image/event1.webp",
-    "type":"online",
+    "type":"offline",
     "attendees":3,
     "category":"Business",
     "distance":25
@@ -15,7 +15,7 @@
     "description":"New York AI Users",
     "date":"2024-03-21T11:30:00.000Z",
     "image":"https://raw.githubusercontent.com/Pro100Dever/My-ICH-Project/refs/heads/main/assets/image/event2.webp",
-    "type":"online",
+    "type":"offline",
     "attendees":51,
     "category":"Social Activitie"
   },
@@ -76,7 +76,7 @@
     "description":"Dump writing group",
     "date":"2024-03-13T10:00:00.000Z",
     "image":"https://raw.githubusercontent.com/Pro100Dever/My-ICH-Project/refs/heads/main/assets/image/event8.webp",
-    "type":"online",
+    "type":"offline",
     "attendees":33,
     "category":"Business",
     "distance":5
